@@ -1,0 +1,36 @@
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div#firstdiv{
+    background-color: #EEEEEE;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1700px;
+    height: 62px;
+}
+input#google{
+    width: 300px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1704px;
+    height: 76px;
+}
+#firstcolumn{
+    background-color: #7EE5DA;
+    width: 36%;
+    text-align: center;
+}
+#secondcolumn{
+    background-color: #70CCC2;
+    width: 20%;
+    text-align: center;
+}
+#thirdcolumn{
+    background-color: #62B3AA;
+    width: 44%;
+    text-align: center;
+}
